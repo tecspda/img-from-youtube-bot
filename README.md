@@ -1,6 +1,6 @@
 # Telegram Bot. Getting YouTube image previews
 
-Version [ENG](https://github.com/tecspda/get-img-from-youtube-bot/README.md) | [RUS](https://github.com/tecspda/get-img-from-youtube-bot/README_RU.md)
+Version [ENG](https://github.com/tecspda/img-from-youtube-bot) | [RUS](https://github.com/tecspda/img-from-youtube-bot/blob/master/README_RU.md)
 
 ## Install
 1. Install golang: [go.dev/doc/install](https://go.dev/doc/install)
